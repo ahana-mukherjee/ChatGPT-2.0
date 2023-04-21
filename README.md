@@ -2,6 +2,22 @@
 
 ChatGPT 2.0 is a web-based chatbot application that utilizes OpenAI's GPT language model to provide answers to user questions and queries. The search results can be filtered and made exclusive by selecting the various models made available by OpenAI. This repository contains the source code for the application.
 
+## Technologies Used
+
+The following technologies have been used in the development of ChatGPT 2.0:
+
+- Node.js with Express for the backend
+- React for the front-end
+- OpenAI GPT language model for the chatbot
+
+## Prerequisites
+
+Before running the ChatGPT 2.0 application, ensure that the following are installed:
+
+- Node.js and NPM
+- A modern web browser
+- An OpenAI API key for using the GPT language model
+
 ## Available Scripts
 
 In the project directory, you can run:
