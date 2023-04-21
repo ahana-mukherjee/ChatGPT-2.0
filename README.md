@@ -1,4 +1,6 @@
-# Getting Started with ChatGPT 2.0
+# ChatGPT 2.0
+
+ChatGPT 2.0 is a web-based chatbot application that utilizes OpenAI's GPT language model to provide answers to user questions and queries. The search results can be filtered and made exclusive by selecting the various models made available by OpenAI. This repository contains the source code for the application.
 
 ## Available Scripts
 
